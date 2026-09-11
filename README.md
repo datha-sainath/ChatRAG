@@ -1,10 +1,7 @@
+# ChatRAG
+
 # End To End Advanced RAG Project using Open Source LLM Models And Groq Inferencing
  - In this project I have built an end to end advanced RAG project using open source llm model, Mistral using groq inferencing engine.
-
-![Groq for RAG Image](./images/chatbot-image.png)
-
-## DEMO
- - You can try the project live [here](https://8510-01hwj8ynshjz7spkr595x77ec2.cloudspaces.litng.ai/)
 
 ## Description
 - This project showcase the implementation of an advanced RAG system that uses groq as an llm to retrieve information about langsmith.
@@ -29,24 +26,13 @@ Steps I followed:
  1. Prerequisites
     - Git
     - Command line familiarity
- 2. Clone the Repository: `git clone https://github.com/NebeyouMusie/End-To-End-Advanced-RAG-Project-using-Open-Source-LLM-Models-And-Groq-Inferencing.git`
+ 2. Clone the Repository: `git clone https://github.com/datha-sainath/ChatRAG.git`
  3. Create and Activate Virtual Environment (Recommended)
     - `python -m venv venv`
     - `source venv/bin/activate`
- 4. Navigate to the projects directory `cd ./End-To-End-Advanced-RAG-Project-using-Open-Source-LLM-Models-And-Groq-Inferencing` using your terminal
+ 4. Navigate to the projects directory `cd ./ChatRAG` using your terminal
  5. Install Libraries: `pip install -r requirements.txt`
  6. run `streamlit run app.py`
  7. open the link displayed in the terminal on your preferred browser
-
-## Collaboration
-- Collaborations are welcomed ❤️
-
-## Acknowledgments
- - I would like to thank [Krish Naik](https://www.youtube.com/@krishnaik06)
-   
-## Contact
- - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
- - Gmail: nebeyoumusie@gmail.com
- - Telegram: [Nebeyou Musie](https://t.me/NebeyouMusie)
 
 
